@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>@string/contas</item>
+        <item>@string/alimentacao</item>
+        <item>@string/lazer</item>
+        <item>@string/saude</item>
+    </string-array>
+</resources>
